@@ -46,10 +46,9 @@ def fib x
 		neg * (count_fib x, 0 ,1)
 	end
 end
-```
 
 (-10..10).each { |x| print "#{x}:#{(fib x)} " }
-`
+```
 
 ####quotes:
 
